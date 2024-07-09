@@ -3,7 +3,6 @@ import re
 
 nlp = spacy.load("en_core_web_sm")
 
-
 def extract_resp(sentences, min_length=3):
     # Initialize a set to store unique sentences starting with a verb
     unique_sentences_with_verb = set()
