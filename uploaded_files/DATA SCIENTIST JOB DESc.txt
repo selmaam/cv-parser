@@ -1,0 +1,48 @@
+Description:
+
+Responsible for providing analytical support related to user growth and content, performing market and competitive analyses. 
+Identifying key market trends and telling stories with data. 
+Passionate about finding insights in large datasets. 
+Synthesizing and communicating results, and driving practical business impact. 
+Work crossfunctionally with the product, IT, Strategy, MKT, Analytics & Finance teams.
+
+Main Tasks:
+•	Conduct undirected research and frame openended business questions
+•	Extract huge volumes of data from multiple internal and external sources (sources DB, web, logs...)
+•	Employ sophisticated analytics programs, machine learning and statistical methods to prepare data for use in predictive and prescriptive modeling
+•	Thoroughly clean and prune data to discard irrelevant information
+•	Explore and examine data from a variety of angles to determine hidden weaknesses, trends and/or opportunities
+•	Devise datadriven solutions to the most pressing challenges
+•	Invent new algorithms to solve problems and build new tools to automate work
+•	Communicate predictions and findings to management and IT departments through effective data visualizations and reports
+•	Recommend costeffective changes to existing procedures and strategies
+•	Write and interpret complex SQL queries for standard as well as ad hoc data analysis purposes
+•	Being the goto person for any data question.
+
+Exigence:
+•	BAC+5/Master/ Ingéniorat / in Applied Math, Statistics and Computer Science (Bac+5);
+•	Minimum two (02) years of work experience involving quantitative data analysis to solve problems.
+
+Main requirements:
+
+Related to the job:
+
+•	Math and Statistics skills
+•	Machine learning tools and techniques (e.g. knearest neighbors, random forests, ensemble methods, etc.)
+•	Software engineering skills (e.g. distributed computing, algorithms and data structures)
+•	Data Warehouse and Data mining
+•	Data cleaning and mugging
+•	Data visualization and reporting techniques and tools (SAP, Qlik, Tableau, …)
+•	Unstructured data techniques
+•	R and/or SAS languages
+•	SQL databases and database querying languages
+•	Python (most common), C/C++ Java, Perl
+•	Big data platforms (Hadoop, Hive & Pig, ...).
+
+Transverse :
+•	Analytic ProblemSolving
+•	Effective Communication
+•	Intellectual Curiosity
+•	Telecommunication Knowledge.
+
+
