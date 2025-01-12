@@ -1,0 +1,23 @@
+Responsabilités :
+
+
+-Concevoir, développer et maintenir des applications back-end performantes.
+-Intégrer et gérer des bases de données (SQL, NoSQL).
+-Développer et maintenir des APIs RESTful pour la communication avec le front-end.
+-Collaborer avec les développeurs front-end pour intégrer les éléments utilisateurs dans l'application.
+-Assurer la sécurité et l'optimisation des applications back-end.
+-Rédiger et maintenir la documentation technique.
+-Résoudre les problèmes et déboguer les applications pour garantir leur bon fonctionnement.
+-Participer aux revues de code et assurer la qualité du code.
+
+
+Compétences Requises :
+
+
+-Expérience professionnelle en développement back-end.
+-Maîtrise de plusieurs langages de programmation côté serveur (Java, Python, Ruby, PHP, Node.js, etc.).
+-Bonne connaissance des bases de données relationnelles et non relationnelles (MySQL, MongoDB, PostgreSQL, etc.).
+-Expérience avec les outils de versioning (Git, SVN).
+-Connaissance des pratiques de développement sécurisées.
+-Compétences en résolution de problèmes et en optimisation des performances.
+-Capacité à travailler en équipe et à communiquer efficacement.

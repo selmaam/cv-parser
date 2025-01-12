@@ -1,0 +1,10 @@
+Data Scientist
+
+The Data Scientist will be responsible for:
+
+Analyzing large datasets to extract insights and inform business decisions.
+Building predictive models and machine learning algorithms.
+Communicating findings through reports and visualizations.
+Collaborating with stakeholders to identify data-driven opportunities.
+Ensuring data quality and integrity throughout the data lifecycle.
+The ideal candidate will have a Master’s degree in Data Science, Statistics, or a related field, experience with statistical analysis and machine learning techniques, proficiency in data analysis tools (e.g., Python, R, SQL), and strong communication and analytical skills.
